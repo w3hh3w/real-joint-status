@@ -68,9 +68,7 @@
 
 ```
 ├── web_server.exe         # 可执行文件
-├── templates/             # Web 界面模板
 ├── recordings/            # 数据记录存储目录
-└── logo.ico               # 程序图标
 ```
 
 ## 许可证
